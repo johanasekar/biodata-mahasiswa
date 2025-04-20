@@ -1,1 +1,1 @@
-# biodata-mahasiswa
+rm biodata-mahasiswa
